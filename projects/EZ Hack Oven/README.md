@@ -6,7 +6,10 @@
 BakeBuild was a CAD YSWS that involved designing a cookie cutter, but wouldn't it be nice if you could cook your cookies with an oven you made.
 
 ## ⚙️ How It Works  
-_What’s the core concept? What tools, frameworks, or platforms will you use?_  
+You will need to use:
+* A CAD program like [Onshape](https://www.onshape.com/) or [Fusion360](https://www.autodesk.com/products/fusion-360)
+* An electrical circuit design program
+* A 3D printing service if you don't have a printer.
 
 ## 🎮 How It Plays (for YSWS or Workshops)  
 1. Each participant designs their own EZ bake oven in [Onshape](https://www.onshape.com/) or [Fusion360](https://www.autodesk.com/products/fusion-360)
