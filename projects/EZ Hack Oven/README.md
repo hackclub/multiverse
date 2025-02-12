@@ -1,6 +1,6 @@
 # EZ Hack Oven
 
-**Created by:** @Kaympe20 and @Dandililacs
+**Created by:** [@Kaympe20](https://github.com/kaympe20) and [@Dandililacs](https://github.com/Dandililacs)
 
 ## 🌟 Elevator Pitch  
 BakeBuild was a CAD YSWS that involved designing a cookie cutter, but wouldn't it be nice if you could cook your cookies with an oven you made.
@@ -16,7 +16,7 @@ _What’s the core concept? What tools, frameworks, or platforms will you use?_
 5. They keep the oven
 
 ## 🚀 The Development Plan  
-I and @Dandililacs will work together to make this happen. I will create a Jam and example project while @Dandililacs will work on the logistics and marketing material.
+I and [@Dandililacs](https://github.com/Dandililacs) will work together to make this happen. I will create a Jam and example project while [@Dandililacs](https://github.com/Dandililacs) will work on the logistics and marketing material.
 
 ## 🔥 What Challenges Do You Anticipate?  
 I anticipate that fitting all parts on the build plate of a standard 3D printer will be challenging.
