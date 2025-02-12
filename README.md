@@ -7,10 +7,9 @@ We’re bringing together a group of committed Hack Club Leaders to a 8-week opp
 
 In the next 8 weeks, **SuperLeaders** must **create a prototype**—a **YSWS, workshop, or club project**—and **test it in their own club** before arriving at the event. They will **gather feedback, refine their work, and document their process** in a project submission.  
 
-What makes a good club project? Here are a few examples:
-- link
-- link
-- link
+What makes a good project? Here are some things that you could be inspired by:
+- Workshops: Hack Club's [Jams](https://jams.hackclub.com/), and especially jams like [WebOS](https://jams.hackclub.com/batch/webOS). 
+- Club Projects: Unfortunately we don't have many examples (that's part of why we're doing this!), but we loved seeing Gus' [club fair project](https://hackclub.slack.com/archives/C01504DCLVD/p1734626984684319)! If you have any other examples, be sure to let us know!
 
 ### 🚀 **At Mission Control**  
 
