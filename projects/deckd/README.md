@@ -1,0 +1,2 @@
+# deckd ꩜ .ᐟ
+an 8-week-long customized <ins><b>cyberdeck building project</b></ins> that runs linux mint and is made with cheap,  and readily-available off-the-shelf components, custom printed parts, and recycled/salvaged parts. i will be adding a rough overview along with a super-detailed step-by-step course of action on the [project repo](https://github.com/arsoninstigator/deckd) by tomorrow and update my pull request then!
